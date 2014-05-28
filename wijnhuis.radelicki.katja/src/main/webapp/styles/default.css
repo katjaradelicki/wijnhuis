@@ -1,0 +1,42 @@
+body {
+	font-family: Verdana;
+}
+
+input,select {
+	display: block;
+	margin-top: 0.2em;
+	margin-bottom: 1em;
+	font-size: 1.1em;
+}
+
+input[type='checkbox'],input[type='radio'] {
+	display: inline;
+}
+
+.fout {
+	color: red;
+	font-weight: bold;
+}
+
+span.fout {
+	display: inline;
+}
+
+div.ster {
+	color: yellow;
+	display: inline;
+}
+
+span.antwoord {
+	font-weight: bold;
+	display: block;
+	margin-bottom: 0.5em
+}
+
+div.fout {
+	display: inline;
+}
+
+input.lijn {
+	display: inline;
+}
